@@ -1,2 +1,4 @@
-/node_modules
-/typings
+*/node_modules
+*/typings
+/angular2-tour-of-heroes/dist
+/angular2-tour-of-heroes/*.map
